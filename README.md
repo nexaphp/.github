@@ -4,4 +4,4 @@
 
 NexaPHP is a modern, lightweight, and developer-friendly PHP framework designed to make web application development faster, smarter, and more efficient. Built with clean architecture and modular design, NexaPHP empowers developers to focus on creating innovative solutions while the framework handles the complexity behind the scenes.
 
-** Lightweight Core
+**Lightweight Core
